@@ -1,0 +1,78 @@
+.banner {
+    display: table;
+    background-color: #5B493C;
+    color: white;
+    height: 100px;
+}
+
+.banner h1 {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 24px;
+}
+
+.top-menu {
+    background-color: #C39182;
+}
+
+.top-menu h2 {
+    font-size: 24px;
+}
+
+.main-content {
+    display: table;
+    height: 200px;
+    background-color: #F2F2F2;
+}
+
+.main-content-c {
+    display: table;
+    height: 200px;
+    background-color: #ffffff;
+}
+
+.main-content-c h2 {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 24px;
+}
+
+.main-content h2 {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 24px;
+}
+
+.odd {
+    background-color: #C5697A;
+    font-size: small;
+}
+
+.odd h2 {
+    font-size: 24px;
+}
+
+.pair {
+ background-color: #00A2B6;
+}
+
+.pair h2 {
+    font-size: 24px;
+}
+
+.footer {
+    background-color: #5B493C;
+    color: white;
+}
+
+.footer h2 {
+    font-size: 24px;
+}
+
+.left-menu {
+    background-color: #F99A3E;
+}
+
+.left-menu h2 {
+    font-size: 24px;
+}
